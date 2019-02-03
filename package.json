@@ -1,0 +1,22 @@
+{
+  "name": "tweetapp",
+  "version": "1.0.0",
+  "description": "example tweet-app",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capprimmir/tweet-app.git"
+  },
+  "author": "mariana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/capprimmir/tweet-app/issues"
+  },
+  "homepage": "https://github.com/capprimmir/tweet-app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
